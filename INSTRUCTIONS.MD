@@ -18,7 +18,7 @@ We zijn benieuwd naar hoe je omgaat met het managen van state, reactiviteit en d
 
 ## BONUS:
 
-- gebruik TypeScript,
+- gebruik [TypeScript](https://create-react-app.dev/docs/adding-typescript/),
 - zorg ervoor dat het winkelmandje-samenvatting rechtsboven in het scherm blijft staan als je op de pagina scrollt en boven alle andere content uitkomt,
 - maak ergens op de pagina een knop om de inhoud van het mandje te wissen.
 
